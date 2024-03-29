@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #d7c6c6;
+}
+
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;    
+  width: fit-content;
+  
+}
+  
